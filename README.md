@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/62857780/215354220-13d3c7e2-d671-4f4c-
 ![image](https://github.com/alis0712/Noras-Fantasy/assets/62857780/db773f96-81cd-4260-8524-f7179b08d56e)
 
 
-# This game will later transition to Unreal Engine 5 sometime in late Novemember
+# This game will later transition to Unreal Engine 5 sometime in late November
 

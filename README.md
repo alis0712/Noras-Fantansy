@@ -10,3 +10,7 @@ A short video illustrates the current game progress, currently playing as her fa
 
 https://user-images.githubusercontent.com/62857780/215354220-13d3c7e2-d671-4f4c-8824-a1a917c32ea5.mp4
 
+# A screenshot for the SDL Version is in development for pracice purposes
+
+# This game will later transition to Unreal Engine 5 sometime in late Novemember
+

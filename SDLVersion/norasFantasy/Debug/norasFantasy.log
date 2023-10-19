@@ -1,0 +1,4 @@
+﻿  globals.cpp
+C:\Users\syeda\OneDrive - Bowie State\Misc\c++ review\norasFantasy\norasFantasy\globals.cpp(4,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\syeda\OneDrive - Bowie State\Misc\c++ review\norasFantasy\norasFantasy\globals.cpp(11,83): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  norasFantasy.vcxproj -> C:\Users\syeda\OneDrive - Bowie State\Misc\c++ review\norasFantasy\Debug\norasFantasy.exe
